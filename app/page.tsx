@@ -244,7 +244,7 @@ const footerCols = [
   { title: 'Produkt', links: [{ label: 'Funkcionalnosti', href: '/funkcionalnosti' }, { label: 'Cenik', href: '#' }, { label: 'Roadmap', href: '#' }] },
   { title: 'Vire', links: [{ label: 'Dokumentacija', href: '#' }, { label: 'Blog', href: '#' }, { label: 'FAQ', href: '#faq' }] },
   { title: 'Podjetje', links: [{ label: 'O nas', href: '#' }, { label: 'Kontakt', href: '#' }] },
-  { title: 'Pravno', links: [{ label: 'Zasebnost', href: '#' }, { label: 'Pogoji uporabe', href: '#' }, { label: 'GDPR', href: '#' }] },
+  { title: 'Pravno', links: [{ label: 'Zasebnost', href: '/zasebnost' }, { label: 'Pogoji uporabe', href: '/pogoji-uporabe' }, { label: 'GDPR', href: '#' }] },
 ]
 
 // ─── Page ─────────────────────────────────────────────────────────────────────
