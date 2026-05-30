@@ -147,6 +147,11 @@ const quickFeatures = [
     title: 'Ponavljajoče naloge',
     desc: '"Vsak teden" ali "Vsakega 15-ga v mesecu" — app ustvari naslednjo instanco sam. Brez opomnikov.',
   },
+  {
+    icon: '📍',
+    title: 'Kraji & lokacije',
+    desc: 'Vtipkaš #Kranj in naloga dobi lokacijo. Na strani kraja vidiš vse naloge vezane nanj — aktivne, opravljene, v redu.',
+  },
 ]
 
 const differentiators = [
